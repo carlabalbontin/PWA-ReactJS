@@ -5,7 +5,11 @@ self.addEventListener('install', e => {
   const timeStamp = Date.now();
   e.waitUntil(
     caches.open(CACHE_NAME).then(cache => {
-      return cache.addAll([])
+      return cache.addAll([
+        'index.html',
+        'json/schedule.json',
+        'json/speakers.json'
+      ])
         .then(() => self.skipWaiting());
     })
   );
