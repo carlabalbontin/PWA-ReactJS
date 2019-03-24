@@ -1,0 +1,84 @@
+[
+	{
+		"block" : "01",
+		"time" : "08:00",
+		"content" : [
+			{
+				"title": "Registration + Coffee",
+				"place": "Central Hall",
+				"color": "01"
+			}
+		]
+	},
+	{
+		"block" : "02",
+		"time" : "09:00",
+		"content" : [
+			{
+				"title": "Session 1",
+				"speaker": "Jane Doe",
+				"place": "Central Hall",
+				"color": "02"
+			}
+		]
+	},
+	{
+		"block" : "03",
+		"time" : "10:00",
+		"content" : [
+			{
+				"title": "Session 2a",
+				"speaker": "Jane Doe",
+				"place": "Central Hall",
+				"color": "04"
+			},
+			{
+				"title": "Session 2b",
+				"speaker": "John Doe",
+				"place": "Room 101",
+				"color": "02"
+			},
+			{
+				"title": "Session 2c",
+				"speaker": "John Doe",
+				"place": "Room 220",
+				"color": "03"
+			}
+		]
+	},
+	{
+		"block" : "04",
+		"time" : "11:00",
+		"content" : [
+			{
+				"title": "Coffee Break / Networking",
+				"place": "Central Hall",
+				"color": "01"
+			}
+		]
+	},
+	{
+		"block" : "05",
+		"time" : "11:30",
+		"content" : [
+			{
+				"title": "Session 3a",
+				"speaker": "Jane Doe",
+				"place": "Central Hall",
+				"color": "02"
+			},
+			{
+				"title": "Session 3b",
+				"speaker": "John Doe",
+				"place": "Room 101",
+				"color": "03"
+			},
+			{
+				"title": "Session 3c",
+				"speaker": "John Doe",
+				"place": "Room 220",
+				"color": "04"
+			}
+		]
+	}
+]

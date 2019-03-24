@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Jane Doe",
+		"img": "americanwombat.jpg",
+		"twitter": "https://twitter.com/carlabalbontin",
+		"github": "https://github.com/carlabalbontin"
+	},
+	{
+		"name": "John Doe",
+		"img": "americanwombat.jpg",
+		"twitter": "https://twitter.com/carlabalbontin",
+		"github": "https://github.com/carlabalbontin"
+	}
+]
