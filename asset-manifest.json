@@ -1,15 +1,15 @@
 {
-  "main.css": "/Users/carlabalbontin/Documents/pwa/my-app/build/static/css/main.8487c8de.chunk.css",
-  "main.js": "/Users/carlabalbontin/Documents/pwa/my-app/build/static/js/main.a1a5cdf8.chunk.js",
-  "main.js.map": "/Users/carlabalbontin/Documents/pwa/my-app/build/static/js/main.a1a5cdf8.chunk.js.map",
-  "runtime~main.js": "/Users/carlabalbontin/Documents/pwa/my-app/build/static/js/runtime~main.eff7a220.js",
-  "runtime~main.js.map": "/Users/carlabalbontin/Documents/pwa/my-app/build/static/js/runtime~main.eff7a220.js.map",
-  "static/js/2.094d08f2.chunk.js": "/Users/carlabalbontin/Documents/pwa/my-app/build/static/js/2.094d08f2.chunk.js",
-  "static/js/2.094d08f2.chunk.js.map": "/Users/carlabalbontin/Documents/pwa/my-app/build/static/js/2.094d08f2.chunk.js.map",
-  "index.html": "/Users/carlabalbontin/Documents/pwa/my-app/build/index.html",
-  "precache-manifest.0ee3ef3fe97e1dcc479fbc4da298e148.js": "/Users/carlabalbontin/Documents/pwa/my-app/build/precache-manifest.0ee3ef3fe97e1dcc479fbc4da298e148.js",
-  "service-worker.js": "/Users/carlabalbontin/Documents/pwa/my-app/build/service-worker.js",
-  "static/css/main.8487c8de.chunk.css.map": "/Users/carlabalbontin/Documents/pwa/my-app/build/static/css/main.8487c8de.chunk.css.map",
-  "static/media/header.png": "/Users/carlabalbontin/Documents/pwa/my-app/build/static/media/header.c21f3934.png",
-  "static/media/loader.gif": "/Users/carlabalbontin/Documents/pwa/my-app/build/static/media/loader.1c249308.gif"
+  "main.css": "/PWA-ReactJS/static/css/main.8487c8de.chunk.css",
+  "main.js": "/PWA-ReactJS/static/js/main.ce9380f7.chunk.js",
+  "main.js.map": "/PWA-ReactJS/static/js/main.ce9380f7.chunk.js.map",
+  "runtime~main.js": "/PWA-ReactJS/static/js/runtime~main.eddf8bb9.js",
+  "runtime~main.js.map": "/PWA-ReactJS/static/js/runtime~main.eddf8bb9.js.map",
+  "static/js/2.094d08f2.chunk.js": "/PWA-ReactJS/static/js/2.094d08f2.chunk.js",
+  "static/js/2.094d08f2.chunk.js.map": "/PWA-ReactJS/static/js/2.094d08f2.chunk.js.map",
+  "index.html": "/PWA-ReactJS/index.html",
+  "precache-manifest.9d529df8f7586587837fab2d9f17bc80.js": "/PWA-ReactJS/precache-manifest.9d529df8f7586587837fab2d9f17bc80.js",
+  "service-worker.js": "/PWA-ReactJS/service-worker.js",
+  "static/css/main.8487c8de.chunk.css.map": "/PWA-ReactJS/static/css/main.8487c8de.chunk.css.map",
+  "static/media/header.png": "/PWA-ReactJS/static/media/header.c21f3934.png",
+  "static/media/loader.gif": "/PWA-ReactJS/static/media/loader.1c249308.gif"
 }
