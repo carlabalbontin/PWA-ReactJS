@@ -1,13 +1,19 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
+  "short_name": "Charlie Conf",
+  "name": "Charlie Conference PWA",
+  "icons": [{
+    "src": "images/icons/icon_76pt.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    }, {
+      "src": "images/icons/icon_60pt@2x.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    }, {
+      "src": "images/icons/icon_60pt@3x.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }],
   "start_url": "index.html",
   "display": "standalone",
   "theme_color": "#000000",
