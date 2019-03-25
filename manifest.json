@@ -2,6 +2,10 @@
   "short_name": "Charlie Conf",
   "name": "Charlie Conference PWA",
   "icons": [{
+    "src": "img/icons/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },{
     "src": "img/icons/icon_76pt.png",
       "sizes": "76x76",
       "type": "image/png"
