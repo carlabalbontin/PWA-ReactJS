@@ -2,15 +2,15 @@
   "short_name": "Charlie Conf",
   "name": "Charlie Conference PWA",
   "icons": [{
-    "src": "images/icons/icon_76pt.png",
+    "src": "img/icons/icon_76pt.png",
       "sizes": "76x76",
       "type": "image/png"
     }, {
-      "src": "images/icons/icon_60pt@2x.png",
+      "src": "img/icons/icon_60pt@2x.png",
       "sizes": "120x120",
       "type": "image/png"
     }, {
-      "src": "images/icons/icon_60pt@3x.png",
+      "src": "img/icons/icon_60pt@3x.png",
       "sizes": "180x180",
       "type": "image/png"
     }],
