@@ -1,37 +1,37 @@
 [
 	{
 		"name": "Jane Richardson",
-		"img": "woman1.jpg",
+		"img": "woman1.png",
 		"twitter": "https://twitter.com/carlabalbontin",
 		"github": "https://github.com/carlabalbontin"
 	},
 	{
 		"name": "Geoffrey Jameson",
-		"img": "man1.jpg",
+		"img": "man1.png",
 		"twitter": "https://twitter.com/carlabalbontin",
 		"github": "https://github.com/carlabalbontin"
 	},
 	{
 		"name": "Sara David",
-		"img": "woman2.jpg",
+		"img": "woman2.png",
 		"twitter": "https://twitter.com/carlabalbontin",
 		"github": "https://github.com/carlabalbontin"
 	},
 	{
 		"name": "Rick Hutcherson",
-		"img": "man2.jpg",
+		"img": "man2.png",
 		"twitter": "https://twitter.com/carlabalbontin",
 		"github": "https://github.com/carlabalbontin"
 	},
 	{
 		"name": "Alicia Rivers",
-		"img": "woman3.jpg",
+		"img": "woman3.png",
 		"twitter": "https://twitter.com/carlabalbontin",
 		"github": "https://github.com/carlabalbontin"
 	},
 	{
 		"name": "Allan O'Brien",
-		"img": "man3.jpg",
+		"img": "man3.png",
 		"twitter": "https://twitter.com/carlabalbontin",
 		"github": "https://github.com/carlabalbontin"
 	}
