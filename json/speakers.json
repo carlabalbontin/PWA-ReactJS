@@ -1,13 +1,37 @@
 [
 	{
-		"name": "Jane Doe",
-		"img": "americanwombat.jpg",
+		"name": "Jane Richardson",
+		"img": "woman1.jpg",
 		"twitter": "https://twitter.com/carlabalbontin",
 		"github": "https://github.com/carlabalbontin"
 	},
 	{
-		"name": "John Doe",
-		"img": "americanwombat.jpg",
+		"name": "Geoffrey Jameson",
+		"img": "man1.jpg",
+		"twitter": "https://twitter.com/carlabalbontin",
+		"github": "https://github.com/carlabalbontin"
+	},
+	{
+		"name": "Sara David",
+		"img": "woman2.jpg",
+		"twitter": "https://twitter.com/carlabalbontin",
+		"github": "https://github.com/carlabalbontin"
+	},
+	{
+		"name": "Rick Hutcherson",
+		"img": "man2.jpg",
+		"twitter": "https://twitter.com/carlabalbontin",
+		"github": "https://github.com/carlabalbontin"
+	},
+	{
+		"name": "Alicia Rivers",
+		"img": "woman3.jpg",
+		"twitter": "https://twitter.com/carlabalbontin",
+		"github": "https://github.com/carlabalbontin"
+	},
+	{
+		"name": "Allan O'Brien",
+		"img": "man3.jpg",
 		"twitter": "https://twitter.com/carlabalbontin",
 		"github": "https://github.com/carlabalbontin"
 	}
