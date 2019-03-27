@@ -1,6 +1,6 @@
 # PWA-ReactJS
 
-PWA built with ReactJS
+Progressive Web App for a fake conference built with ReactJS
 
 ## Background
 When I go to a conference, I have to load the webpage several times during the day to see the schedule and check the location and time of the talks I'm interested in.
