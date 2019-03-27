@@ -15,8 +15,8 @@
 		"time" : "09:00",
 		"content" : [
 			{
-				"title": "Session 1",
-				"speaker": "Jane Doe",
+				"title": "Machine Learning Advances",
+				"speaker": "Jane Richardson",
 				"place": "Central Hall",
 				"color": "02"
 			}
@@ -27,20 +27,20 @@
 		"time" : "10:00",
 		"content" : [
 			{
-				"title": "Session 2a",
-				"speaker": "Jane Doe",
+				"title": "User Research for E-commerce",
+				"speaker": "Geoffrey Jameson",
 				"place": "Central Hall",
 				"color": "04"
 			},
 			{
-				"title": "Session 2b",
-				"speaker": "John Doe",
+				"title": "React Native",
+				"speaker": "Rick Hutcherson",
 				"place": "Room 101",
 				"color": "02"
 			},
 			{
-				"title": "Session 2c",
-				"speaker": "John Doe",
+				"title": "Lessons from a ReactJS Engineer",
+				"speaker": "Sara David",
 				"place": "Room 220",
 				"color": "03"
 			}
@@ -62,22 +62,27 @@
 		"time" : "11:30",
 		"content" : [
 			{
-				"title": "Session 3a",
-				"speaker": "Jane Doe",
+				"title": "Workshop on User Flows",
+				"speaker": "Allan O'Brien",
 				"place": "Central Hall",
-				"color": "02"
+				"color": "Room 101"
 			},
 			{
-				"title": "Session 3b",
-				"speaker": "John Doe",
-				"place": "Room 101",
-				"color": "03"
-			},
-			{
-				"title": "Session 3c",
-				"speaker": "John Doe",
+				"title": "Introduction to IoT: a workshop",
+				"speaker": "Alicia Rivers",
 				"place": "Room 220",
-				"color": "04"
+				"color": "03"
+			}
+		]
+	},
+	{
+		"block" : "06",
+		"time" : "13:00",
+		"content" : [
+			{
+				"title": "Lunch",
+				"place": "Central Hall",
+				"color": "01"
 			}
 		]
 	}
