@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/carlabalbontin/PWA-ReactJS/precache-manifest.4c608ac1a96ac60de6090322d1a32743.js"
+  "/PWA-ReactJS/precache-manifest.179de66179264fd8a3c22f7d12cbf2c7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/carlabalbontin/PWA-ReactJS/index.html", {
+workbox.routing.registerNavigationRoute("/PWA-ReactJS/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

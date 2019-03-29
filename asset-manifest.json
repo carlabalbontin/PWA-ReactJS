@@ -1,15 +1,15 @@
 {
-  "main.css": "/carlabalbontin/PWA-ReactJS/static/css/main.db544bd5.chunk.css",
-  "main.js": "/carlabalbontin/PWA-ReactJS/static/js/main.0b905c7e.chunk.js",
-  "main.js.map": "/carlabalbontin/PWA-ReactJS/static/js/main.0b905c7e.chunk.js.map",
-  "runtime~main.js": "/carlabalbontin/PWA-ReactJS/static/js/runtime~main.a00a8548.js",
-  "runtime~main.js.map": "/carlabalbontin/PWA-ReactJS/static/js/runtime~main.a00a8548.js.map",
-  "static/js/2.094d08f2.chunk.js": "/carlabalbontin/PWA-ReactJS/static/js/2.094d08f2.chunk.js",
-  "static/js/2.094d08f2.chunk.js.map": "/carlabalbontin/PWA-ReactJS/static/js/2.094d08f2.chunk.js.map",
-  "index.html": "/carlabalbontin/PWA-ReactJS/index.html",
-  "precache-manifest.4c608ac1a96ac60de6090322d1a32743.js": "/carlabalbontin/PWA-ReactJS/precache-manifest.4c608ac1a96ac60de6090322d1a32743.js",
-  "service-worker.js": "/carlabalbontin/PWA-ReactJS/service-worker.js",
-  "static/css/main.db544bd5.chunk.css.map": "/carlabalbontin/PWA-ReactJS/static/css/main.db544bd5.chunk.css.map",
-  "static/media/header.png": "/carlabalbontin/PWA-ReactJS/static/media/header.c21f3934.png",
-  "static/media/loader.gif": "/carlabalbontin/PWA-ReactJS/static/media/loader.1c249308.gif"
+  "main.css": "/PWA-ReactJS/static/css/main.db544bd5.chunk.css",
+  "main.js": "/PWA-ReactJS/static/js/main.f5d187e0.chunk.js",
+  "main.js.map": "/PWA-ReactJS/static/js/main.f5d187e0.chunk.js.map",
+  "runtime~main.js": "/PWA-ReactJS/static/js/runtime~main.eddf8bb9.js",
+  "runtime~main.js.map": "/PWA-ReactJS/static/js/runtime~main.eddf8bb9.js.map",
+  "static/js/2.094d08f2.chunk.js": "/PWA-ReactJS/static/js/2.094d08f2.chunk.js",
+  "static/js/2.094d08f2.chunk.js.map": "/PWA-ReactJS/static/js/2.094d08f2.chunk.js.map",
+  "index.html": "/PWA-ReactJS/index.html",
+  "precache-manifest.179de66179264fd8a3c22f7d12cbf2c7.js": "/PWA-ReactJS/precache-manifest.179de66179264fd8a3c22f7d12cbf2c7.js",
+  "service-worker.js": "/PWA-ReactJS/service-worker.js",
+  "static/css/main.db544bd5.chunk.css.map": "/PWA-ReactJS/static/css/main.db544bd5.chunk.css.map",
+  "static/media/header.png": "/PWA-ReactJS/static/media/header.c21f3934.png",
+  "static/media/loader.gif": "/PWA-ReactJS/static/media/loader.1c249308.gif"
 }
