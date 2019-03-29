@@ -6,13 +6,9 @@ self.addEventListener('install', e => {
   e.waitUntil(
     caches.open(CACHE_NAME).then(cache => {
       return cache.addAll([
-        '/',
         '/index.html',
         '/json/schedule.json',
-        '/json/speakers.json',
-        '/fonts/*',
-        '/img/speakers/*',
-        '/static/js/bundle.js'
+        '/json/speakers.json'
       ])
         .then(() => self.skipWaiting());
     })
